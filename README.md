@@ -1,8 +1,5 @@
 # challenge_3
 
-
-# challenge_3
-
 I was given a template of a password generator and I used javascript to make it operational.
 
 
